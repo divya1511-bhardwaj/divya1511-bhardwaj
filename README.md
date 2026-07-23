@@ -73,7 +73,7 @@ Faridabad, Haryana
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,springBoot,mysql,html,css,js,github,maven,eclipse,vscode,postman,JavaScript,Angular"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,github,maven,eclipse,vscode,postman,JavaScript,Angular"/>
 
 </p>
 
@@ -142,18 +142,6 @@ Faridabad, Haryana
 ✔ Apache Tomcat
 
 ---
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divya1511-bhardwaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya1511-bhardwaj&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -163,17 +151,6 @@ Faridabad, Haryana
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=divya1511-bhardwaj&theme=onedark&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 💼 Current Focus
 
 ```java
@@ -190,9 +167,6 @@ while(!Success){
     Repeat();
 }
 ```
-
----
-
 # 💡 Quote
 
 > **"Code. Learn. Improve. Repeat."**
@@ -225,11 +199,11 @@ while(!Success){
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=divya1511-bhardwaj&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-</p>
+</p> -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
 ---
