@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Developer;REST+API+Developer;Open+to+Work"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Developer;REST+API+Developer;Open+to+Work"/> -->
 
 </p>
 
@@ -24,13 +24,8 @@ Passionate Java Full Stack Developer focused on building scalable backend applic
 
 💼 Java Full Stack Developer
 
-🚀 Passionate about Backend Development
+🚀 Passionate about Full Stack Development
 
-🔭 Currently building
-
-- CRM Management System
-- Authentication System
-- Spring Boot REST APIs
 
 🌱 Currently Learning
 
@@ -40,17 +35,6 @@ Passionate Java Full Stack Developer focused on building scalable backend applic
 - Microservices
 - System Design
 
-💬 Ask me about
-
-- Core Java
-- Spring Boot
-- JDBC
-- REST APIs
-- MySQL
-- HTML
-- CSS
-- JavaScript
-
 📍 Location
 
 Faridabad, Haryana
@@ -59,9 +43,9 @@ Faridabad, Haryana
 
 ✔ Full Time Java Developer
 
-✔ Backend Developer
+✔ Java Full Stack Developer
 
-✔ Spring Boot Developer
+✔ Software Engineer
 
 ---
 
@@ -89,7 +73,7 @@ Faridabad, Haryana
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,maven,eclipse,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=java,springBoot,mysql,html,css,js,github,maven,eclipse,vscode,postman,JavaScript,Angular"/>
 
 </p>
 
@@ -106,8 +90,6 @@ Faridabad, Haryana
 ✔ Servlet
 
 ✔ JSP
-
-✔ Spring Framework
 
 ✔ Spring Boot
 
@@ -151,8 +133,6 @@ Faridabad, Haryana
 
 ✔ VS Code
 
-✔ Git
-
 ✔ GitHub
 
 ✔ Maven
@@ -162,80 +142,7 @@ Faridabad, Haryana
 ✔ Apache Tomcat
 
 ---
-
-# 🚀 Featured Projects
-
-### 🔐 Spring Boot Authentication System
-
-Secure Login & Registration
-
-✔ Spring Boot
-
-✔ BCrypt Password Encryption
-
-✔ Spring Security
-
-✔ REST APIs
-
-✔ MySQL
-
----
-
-### 📊 CRM Management System
-
-✔ Customer Management
-
-✔ Lead Management
-
-✔ Dashboard
-
-✔ Reports
-
-✔ Spring Boot
-
-✔ MySQL
-
----
-
-### 🚗 Car Booking System
-
-✔ Driver Module
-
-✔ Customer Module
-
-✔ Booking Module
-
-✔ Admin Dashboard
-
-✔ Spring Boot
-
----
-
-### 📱 Instagram Clone
-
-✔ Login
-
-✔ Signup
-
-✔ Upload Posts
-
-✔ Likes
-
-✔ Comments
-
----
-
-### 👨‍💼 Employee Management System
-
-✔ CRUD Operations
-
-✔ Spring Boot
-
-✔ MySQL
-
-✔ REST APIs
-
----# 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -257,16 +164,6 @@ Secure Login & Registration
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divya1511-bhardwaj&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -274,39 +171,6 @@ Secure Login & Registration
 <img src="https://github-profile-trophy.vercel.app/?username=divya1511-bhardwaj&theme=onedark&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-| Technology | Status |
-|------------|--------|
-| Spring Boot | ✅ |
-| REST APIs | ✅ |
-| JDBC | ✅ |
-| MySQL | ✅ |
-| Spring Security | 🚀 Learning |
-| JWT Authentication | 🚀 Learning |
-| Docker | 🚀 Learning |
-| Microservices | 🚀 Learning |
-| System Design | 🚀 Learning |
-| DSA | 🚀 Improving Daily |
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Crack a Java Full Stack Developer Role
-- ✅ Master Spring Boot
-- ✅ Learn Docker
-- ✅ Learn Microservices
-- ✅ Solve 300+ DSA Problems
-- ✅ Build 10+ Production Ready Projects
-- ✅ Contribute to Open Source
 
 ---
 
@@ -381,31 +245,6 @@ while(!Success){
 ```
 
 ---
-
-# 🚀 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/divya1511-bhardwaj/your-repository-name">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=divya1511-bhardwaj&repo=your-repository-name&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/divya1511-bhardwaj/your-repository-name">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=divya1511-bhardwaj&repo=your-repository-name&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/divya1511-bhardwaj/your-repository-name">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=divya1511-bhardwaj&repo=your-repository-name&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/divya1511-bhardwaj/your-repository-name">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=divya1511-bhardwaj&repo=your-repository-name&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
-
 # 📌 Tech Expertise
 
 | Category | Technologies |
@@ -419,61 +258,6 @@ while(!Success){
 | Server | Apache Tomcat |
 
 ---
-
-# 📅 Weekly Development Goals
-
-- 📖 Learn one new Spring Boot concept
-- 💻 Push code to GitHub
-- 🧩 Solve DSA problems
-- 🚀 Improve one project
-- 📚 Read Java documentation
-
----
-
-# 🎯 What Recruiters Can Expect
-
-✔ Clean Code
-
-✔ Object-Oriented Programming
-
-✔ REST API Development
-
-✔ Database Design
-
-✔ Backend Development
-
-✔ Team Collaboration
-
-✔ Continuous Learning
-
----
-
-# 📈 Coding Philosophy
-
-```java
-public class Developer {
-
-    public static void main(String[] args) {
-
-        while(true){
-
-            Learn();
-
-            Build();
-
-            Debug();
-
-            Improve();
-
-        }
-
-    }
-
-}
-```
-
----
-
 # 💼 Looking For
 
 ✔ Java Developer
@@ -500,19 +284,8 @@ public class Developer {
 
 📍 Greater Noida
 
-📍 Bengaluru
+📍 Remote Work
 
-📍 Pune
-
-📍 Hyderabad
-
----
-
-# 📖 Favorite Tech Quote
-
-> "Programs must be written for people to read, and only incidentally for machines to execute."
-
-— Harold Abelson
 
 ---
 
@@ -520,8 +293,6 @@ public class Developer {
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, don't forget to ⭐ my repositories.
-
-</div>
+I</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
